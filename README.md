@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Roseflix: A Netflix Clone</h1>
-  <img src="./public/images/readme/Main.png" alt="Roseflix Screenshot">
+  <img src="./Frontend/public/images/readme/Main.png" alt="Roseflix Screenshot">
   <p align="center">
     My React.js implementation of Netflix. Movie data was pulled from TMDB and trailer videos from Youtube.
     <br /><br />
