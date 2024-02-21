@@ -1,14 +1,9 @@
 <p align="center">
-  <h1 align="center">Roseflix: A Netflix Clone</h1>
-  <img src="./Frontend/public/images/readme/Main.png" alt="Roseflix Screenshot">
+  <h1 align="center">Netflix: A Netflix Clone</h1>
+  <img src="./Frontend/public/images/readme/Main.png" alt="Netflix Screenshot">
   <p align="center">
     My React.js implementation of Netflix. Movie data was pulled from TMDB and trailer videos from Youtube.
     <br /><br />
-    <a href="https://www.youtube.com/watch?v=GpHEcxh3ia8"><strong>View Video Demo »</strong></a>
-    <br /><br />
-    <a href="https://github.com/crookedfingerworks/roseflix/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/crookedfingerworks/roseflix/issues">Request Feature</a>
   </p>
 </p>
 
@@ -20,15 +15,7 @@
       <li><a href="#built-with">Built With</a></li>
     </ul>
   </li>
-  <li>
-    <a href="#getting-started">Getting Started</a>
-    <ul>
-      <li><a href="#prerequisites">Prerequisites</a></li>
-      <li><a href="#installation">Installation</a></li>
-    </ul>
-  </li>
   <li><a href="#usage">Usage</a></li>
-  <li><a href="#contact">Contact</a></li>
 </ol>
 
 ## About The Project
@@ -39,47 +26,6 @@
 - **[Typescript](https://www.typescriptlang.org/)**
 - [Node.js](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/)
-
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-Install latest version of npm
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the project
-   ```sh
-   git clone https://github.com/crookedfingerworks/roseflix.git
-   ```
-2. Go to project directory and Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Create .env file
-4. Request an API key from TMDB and add it to your .env
-   ```sh
-   REACT_APP_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-   ```
-5. In a new directory, clone the backend and follow installation instructions on its README
-   ```sh
-   git clone https://github.com/crookedfingerworks/roseflix-backend
-   ```
-6. You should now have the server running locally. Add the url to your .env
-   ```sh
-   REACT_APP_SERVER_URL=http://localhost:8080
-   ```
-7. Start the application
-   ```sh
-   npm start
-   ```
 
 ## Usage
 
@@ -106,8 +52,6 @@ Install latest version of npm
    - You can sign in using either email or phone number.
 
 **Searching for a Show**
-
-![](./public/images/readme/Search.png)
 
 1. Log in and select a profile.
 2. Click the appropriate tab for your search.
@@ -140,7 +84,6 @@ Install latest version of npm
 
 **Deleting User Profile**
 
-![](./public/images/readme/Delete_Profile.png)
 
 1. Log in to your account.
 2. Click 'Manage Profiles'.
@@ -148,8 +91,3 @@ Install latest version of npm
 4. Click 'Delete Profile'.
 5. Confirm deletion by clicking 'Yes'.
 
-## Contact
-
-crooked.finger.works@gmail.com
-
-Project Link: [https://github.com/crookedfingerworks/roseflix](https://github.com/crookedfingerworks/roseflix)
