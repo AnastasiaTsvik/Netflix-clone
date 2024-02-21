@@ -1,6 +1,5 @@
 <p align="center">
   <h1 align="center">Netflix: A Netflix Clone</h1>
-  <img src="./Frontend/public/images/readme/Main.png" alt="Netflix Screenshot">
   <p align="center">
     My React.js implementation of Netflix. Movie data was pulled from TMDB and trailer videos from Youtube.
     <br /><br />
@@ -31,8 +30,6 @@
 
 **Creating an Account**
 
-![](./public/images/readme/Sign_Up.png)
-
 1. Go to Sign Up page.
    - From the homepage, enter your email and click 'Get Started'.
    - From Sign In page, click the 'Sign up now' link below 'Sign In' button.
@@ -42,8 +39,6 @@
 3. You'll be redirected to the login page. Enter your newly created credentials.
 
 **Logging In**
-
-![](./public/images/readme/Sign_In.png)
 
 1. Go to Sign In page.
    - From the homepage, click 'Sign in' button.
@@ -62,9 +57,6 @@
 5. To show all shows again, clear the search input and press enter.
 
 **Adding User Profile**
-
-![](./public/images/readme/Add_Profile.png)
-
 1. Log in to your account.
 2. Click 'Manage Profiles'.
 3. Click 'Add Profile'.
@@ -74,8 +66,6 @@
    - You can't use avatars and names already used by other profiles in the same account.
 
 **Editing User Profile**
-
-![](./public/images/readme/Edit_Profile.png)
 
 1. Log in to your account.
 2. Click 'Manage Profiles'.
